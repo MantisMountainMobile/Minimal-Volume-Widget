@@ -7,7 +7,7 @@ Minimal Volume Widgetは、最小1x1サイズで着信音量・メディア音�
 
 ![FeatureGraphic](https://github.com/MantisMountainMobile/Minimal-Volume-Widget/blob/main/FeatureGraphic_E_GitHub.png)
 
-## Link to google play (Google Playへのショートカット)
+## Link to Google Play (Google Playへのショートカット)
 Free Version (無料版):  
 https://play.google.com/store/apps/details?id=com.mantismountainmobile.minimalvolumewidget.free
 
