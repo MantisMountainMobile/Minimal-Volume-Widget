@@ -3,8 +3,9 @@ Minimal Volume Widget is a **widget application for Android** that simply shows 
 Volume setting from notification or original floating window is availabe.
 
 Minimal Volume Widgetは、最小1x1サイズで着信音量・メディア音量・アラーム音量とバイブレータの状態を表示する**Android用ウィジェットアプリ**です。
-複雑でわかりにくいAndroidデバイスの音量について、できるだけ正確な情報をコンパクトに表示します。通知領域等からの音量設定も可能です。
+複雑でわかりにくいAndroidデバイスの音量について、できるだけ正確な情報をコンパクトに表示します。通知領域等からの音量設定も可能です。  
 
+![FeatureGraphic](https://github.com/MantisMountainMobile/Minimal-Volume-Widget/blob/main/FeatureGraphic_E_GitHub.png)
 
 ## Link to google play (Google Playへのショートカット)
 Free Version (無料版):  
